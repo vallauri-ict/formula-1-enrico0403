@@ -1,0 +1,19 @@
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe.config
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.dll
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csprojAssemblyReference.cache
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CopyComplete
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe.config
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CopyComplete
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb

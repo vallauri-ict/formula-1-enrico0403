@@ -1,0 +1,22 @@
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneDll\bin\Debug\FormulaOneDll.dll
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.dll
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneDll\bin\Debug\FormulaOneDll.dll
+C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
+C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.dll
+C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneDll\bin\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneDll\obj\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneDll\bin\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
