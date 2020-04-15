@@ -31,13 +31,26 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
             this.tabControlMain = new System.Windows.Forms.TabControl();
             this.tabPageTeam = new System.Windows.Forms.TabPage();
-            this.btnTest = new System.Windows.Forms.Button();
+            this.cmbSecondDriver = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.cmbFirstDriver = new System.Windows.Forms.ComboBox();
+            this.cmbCountry = new System.Windows.Forms.ComboBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtChassis = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtTechnicalChief = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txtPowerUnit = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtFullTeamName = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.listBoxTeam = new System.Windows.Forms.ListBox();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.nuovoToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.apriToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.salvaToolStripButton = new System.Windows.Forms.ToolStripButton();
-            this.stampaToolStripButton = new System.Windows.Forms.ToolStripButton();
+            this.stampaToolStripTeamButton = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.tagliaToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.copiaToolStripButton = new System.Windows.Forms.ToolStripButton();
@@ -65,7 +78,20 @@
             // 
             // tabPageTeam
             // 
-            this.tabPageTeam.Controls.Add(this.btnTest);
+            this.tabPageTeam.Controls.Add(this.cmbSecondDriver);
+            this.tabPageTeam.Controls.Add(this.label7);
+            this.tabPageTeam.Controls.Add(this.cmbFirstDriver);
+            this.tabPageTeam.Controls.Add(this.cmbCountry);
+            this.tabPageTeam.Controls.Add(this.label6);
+            this.tabPageTeam.Controls.Add(this.txtChassis);
+            this.tabPageTeam.Controls.Add(this.label5);
+            this.tabPageTeam.Controls.Add(this.txtTechnicalChief);
+            this.tabPageTeam.Controls.Add(this.label4);
+            this.tabPageTeam.Controls.Add(this.txtPowerUnit);
+            this.tabPageTeam.Controls.Add(this.label3);
+            this.tabPageTeam.Controls.Add(this.label2);
+            this.tabPageTeam.Controls.Add(this.txtFullTeamName);
+            this.tabPageTeam.Controls.Add(this.label1);
             this.tabPageTeam.Controls.Add(this.listBoxTeam);
             this.tabPageTeam.Controls.Add(this.toolStrip1);
             this.tabPageTeam.Location = new System.Drawing.Point(4, 22);
@@ -76,15 +102,123 @@
             this.tabPageTeam.Text = "TEAM";
             this.tabPageTeam.UseVisualStyleBackColor = true;
             // 
-            // btnTest
+            // cmbSecondDriver
             // 
-            this.btnTest.Location = new System.Drawing.Point(693, 0);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(75, 23);
-            this.btnTest.TabIndex = 2;
-            this.btnTest.Text = "TEST";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            this.cmbSecondDriver.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbSecondDriver.FormattingEnabled = true;
+            this.cmbSecondDriver.Location = new System.Drawing.Point(222, 239);
+            this.cmbSecondDriver.Name = "cmbSecondDriver";
+            this.cmbSecondDriver.Size = new System.Drawing.Size(178, 21);
+            this.cmbSecondDriver.TabIndex = 16;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(129, 242);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(78, 13);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "Second Driver:";
+            // 
+            // cmbFirstDriver
+            // 
+            this.cmbFirstDriver.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbFirstDriver.FormattingEnabled = true;
+            this.cmbFirstDriver.Location = new System.Drawing.Point(222, 199);
+            this.cmbFirstDriver.Name = "cmbFirstDriver";
+            this.cmbFirstDriver.Size = new System.Drawing.Size(178, 21);
+            this.cmbFirstDriver.TabIndex = 14;
+            // 
+            // cmbCountry
+            // 
+            this.cmbCountry.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbCountry.FormattingEnabled = true;
+            this.cmbCountry.Location = new System.Drawing.Point(222, 64);
+            this.cmbCountry.Name = "cmbCountry";
+            this.cmbCountry.Size = new System.Drawing.Size(178, 21);
+            this.cmbCountry.TabIndex = 13;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(129, 202);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(60, 13);
+            this.label6.TabIndex = 12;
+            this.label6.Text = "First Driver:";
+            // 
+            // txtChassis
+            // 
+            this.txtChassis.Location = new System.Drawing.Point(222, 161);
+            this.txtChassis.Name = "txtChassis";
+            this.txtChassis.Size = new System.Drawing.Size(178, 20);
+            this.txtChassis.TabIndex = 11;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(129, 164);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(46, 13);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "Chassis:";
+            // 
+            // txtTechnicalChief
+            // 
+            this.txtTechnicalChief.Location = new System.Drawing.Point(222, 128);
+            this.txtTechnicalChief.Name = "txtTechnicalChief";
+            this.txtTechnicalChief.Size = new System.Drawing.Size(178, 20);
+            this.txtTechnicalChief.TabIndex = 9;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(129, 131);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(84, 13);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Technical Chief:";
+            // 
+            // txtPowerUnit
+            // 
+            this.txtPowerUnit.Location = new System.Drawing.Point(222, 95);
+            this.txtPowerUnit.Name = "txtPowerUnit";
+            this.txtPowerUnit.Size = new System.Drawing.Size(178, 20);
+            this.txtPowerUnit.TabIndex = 7;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(129, 98);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(62, 13);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Power Unit:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(129, 67);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(46, 13);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Country:";
+            // 
+            // txtFullTeamName
+            // 
+            this.txtFullTeamName.Location = new System.Drawing.Point(222, 35);
+            this.txtFullTeamName.Name = "txtFullTeamName";
+            this.txtFullTeamName.Size = new System.Drawing.Size(178, 20);
+            this.txtFullTeamName.TabIndex = 3;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(129, 38);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(87, 13);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Full Team Name:";
             // 
             // listBoxTeam
             // 
@@ -94,6 +228,7 @@
             this.listBoxTeam.Name = "listBoxTeam";
             this.listBoxTeam.Size = new System.Drawing.Size(120, 504);
             this.listBoxTeam.TabIndex = 1;
+            this.listBoxTeam.SelectedValueChanged += new System.EventHandler(this.listBoxTeam_SelectedValueChanged);
             // 
             // toolStrip1
             // 
@@ -101,7 +236,7 @@
             this.nuovoToolStripButton,
             this.apriToolStripButton,
             this.salvaToolStripButton,
-            this.stampaToolStripButton,
+            this.stampaToolStripTeamButton,
             this.toolStripSeparator,
             this.tagliaToolStripButton,
             this.copiaToolStripButton,
@@ -141,14 +276,15 @@
             this.salvaToolStripButton.Size = new System.Drawing.Size(23, 22);
             this.salvaToolStripButton.Text = "&Salva";
             // 
-            // stampaToolStripButton
+            // stampaToolStripTeamButton
             // 
-            this.stampaToolStripButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.stampaToolStripButton.Image = ((System.Drawing.Image)(resources.GetObject("stampaToolStripButton.Image")));
-            this.stampaToolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.stampaToolStripButton.Name = "stampaToolStripButton";
-            this.stampaToolStripButton.Size = new System.Drawing.Size(23, 22);
-            this.stampaToolStripButton.Text = "&Stampa";
+            this.stampaToolStripTeamButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.stampaToolStripTeamButton.Image = ((System.Drawing.Image)(resources.GetObject("stampaToolStripTeamButton.Image")));
+            this.stampaToolStripTeamButton.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.stampaToolStripTeamButton.Name = "stampaToolStripTeamButton";
+            this.stampaToolStripTeamButton.Size = new System.Drawing.Size(23, 22);
+            this.stampaToolStripTeamButton.Text = "&Stampa";
+            this.stampaToolStripTeamButton.Click += new System.EventHandler(this.stampaToolStripTeamButton_Click);
             // 
             // toolStripSeparator
             // 
@@ -243,7 +379,7 @@
         private System.Windows.Forms.ToolStripButton nuovoToolStripButton;
         private System.Windows.Forms.ToolStripButton apriToolStripButton;
         private System.Windows.Forms.ToolStripButton salvaToolStripButton;
-        private System.Windows.Forms.ToolStripButton stampaToolStripButton;
+        private System.Windows.Forms.ToolStripButton stampaToolStripTeamButton;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator;
         private System.Windows.Forms.ToolStripButton tagliaToolStripButton;
         private System.Windows.Forms.ToolStripButton copiaToolStripButton;
@@ -252,7 +388,20 @@
         private System.Windows.Forms.ToolStripButton ToolStripButton;
         private System.Windows.Forms.TabPage tabPageDriver;
         private System.Windows.Forms.TabPage tabPageServices;
-        private System.Windows.Forms.Button btnTest;
+        private System.Windows.Forms.TextBox txtChassis;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtTechnicalChief;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txtPowerUnit;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtFullTeamName;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox cmbSecondDriver;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox cmbFirstDriver;
+        private System.Windows.Forms.ComboBox cmbCountry;
+        private System.Windows.Forms.Label label6;
     }
 }
 

@@ -7,11 +7,13 @@
 // </generato automaticamente>
 //------------------------------------------------------------------------------
 
-namespace FormulaOneWebFormProject {
-    
-    
-    public partial class Default {
-        
+namespace FormulaOneWebFormProject
+{
+
+
+    public partial class Default
+    {
+
         /// <summary>
         /// Controllo form1.
         /// </summary>
@@ -20,34 +22,34 @@ namespace FormulaOneWebFormProject {
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-        
+
         /// <summary>
-        /// Controllo btnLoadCountries.
+        /// Controllo btnLoadCountry.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnLoadCountries;
-        
+        protected global::System.Web.UI.WebControls.Button btnLoadCountry;
+
         /// <summary>
-        /// Controllo btnLoadDrivers.
+        /// Controllo btnLoadTeam.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnLoadDrivers;
-        
+        protected global::System.Web.UI.WebControls.Button btnLoadTeam;
+
         /// <summary>
-        /// Controllo btnLoadTeams.
+        /// Controllo btnLoadDriver.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnLoadTeams;
-        
+        protected global::System.Web.UI.WebControls.Button btnLoadDriver;
+
         /// <summary>
         /// Controllo GridView1.
         /// </summary>
@@ -56,14 +58,23 @@ namespace FormulaOneWebFormProject {
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView GridView1;
-        
+
         /// <summary>
-        /// Controllo gwVisDati.
+        /// Controllo GridView2.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gwVisDati;
+        protected global::System.Web.UI.WebControls.GridView GridView2;
+
+        /// <summary>
+        /// Controllo GridView3.
+        /// </summary>
+        /// <remarks>
+        /// Campo generato automaticamente.
+        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridView3;
     }
 }

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>FormulaOne Web Api</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="index.js"></script>
+    <style>
+        body > div {
+            margin: 15px;
+            display: flex;
+        }
+        body > div:nth-of-type(1) input {
+            margin: auto;
+            padding: 15px;
+        }
+        body > div div{
+            margin: auto;
+        }
+        table {
+            border-collapse: collapse;
+        }
+        table,th,td{
+            border: 1px solid black;
+        }
+        table *{
+            padding:5px;
+        }
+    </style>
+</head>
+<body>
+    <div style="margin: 0 auto">
+        <h1 aling="center">FormulaOne Web Api Test</h1>
+        <h3>Clicca su uno dei bottoni per caricare le relativa tabella</h3>
+    </div>
+    <div>
+        <input type="button" id="caricaDrivers" value="Drivers" />
+        <input type="button" id="caricaTeams" value="Teams" />
+        <input type="button" id="caricaCountries" value="Countries" />
+    </div>
+    <div>
+        <div>
+            <label>Driver id: <input id="txtDriver" type="text" /></label>
+            <input type="button" value="Cerca per driver" id="caricaDriver" />
+        </div>
+        <div>
+            <label>Team id: <input id="txtTeam" type="text" /></label>
+            <input type="button" value="Cerca per team" id="caricaTeam" />
+        </div>
+        <div>
+            <label>Country id: <input id="txtCountry" type="text" /></label>
+            <input type="button" value="Cerca per couutries" id="caricaCountry" />
+        </div>
+    </div>
+
+    <table id="table">
+        <thead></thead>
+        <tbody></tbody>
+    </table>
+</body>
+</html>

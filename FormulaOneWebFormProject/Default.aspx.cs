@@ -1,59 +1,62 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 using System.Web.UI;
-using System.Data;
-using System.Data.SqlClient;
-
+using System.Web.UI.WebControls;
 using FormulaOneDll;
 
 namespace FormulaOneWebFormProject
 {
     public partial class Default : System.Web.UI.Page
     {
-        clsDb db;
-        public bool what = false;
-        // True = drivers
-        // False = teams
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!Page.IsPostBack)
+        }
+
+        protected void btnLoadCountry_Click(object sender, EventArgs e)
+        {
+            DbTools db = new DbTools();
+            db.GetCountries();
+            GridView2.DataSource = db.Countries.Values;
+            GridView2.DataBind();
+        }
+
+        protected void btnLoadTeam_Click(object sender, EventArgs e)
+        {
+            DbTools db = new DbTools();
+            db.GetTeams();
+            GridView1.DataSource = db.Teams.Values;
+            GridView1.DataBind();
+        }
+
+        protected void btnLoadDriver_Click(object sender, EventArgs e)
+        {
+            DbTools db = new DbTools();
+            db.GetDrivers();
+            GridView3.DataSource = db.Drivers.Values;
+            GridView3.DataBind();
+        }
+
+        protected void GridView1_RowDataBound(object sender, GridViewRowEventArgs e)
+        {
+            if (e.Row.RowType == DataControlRowType.DataRow)
             {
-                // no init needed
+                e.Row.Attributes["onclick"] =
+                  ClientScript.GetPostBackClientHyperlink(this.GridView1, "Select$" + e.Row.RowIndex);
             }
-            gwVisDati.Visible = false;
-        }
-
-        protected void btnLoadData_Click(object sender, EventArgs e)
-        {
-            GridView1.AutoGenerateSelectButton = false;
-            DbTools dbTools = new DbTools();
-            GridView1.DataSource = dbTools.GetCountries().Values;
-            GridView1.DataBind();
-        }
-
-        protected void btnLoadDrivers_Click(object sender, EventArgs e)
-        {
-            what = true;
-            GridView1.AutoGenerateSelectButton = true;
-            DbTools dbTools = new DbTools();
-            // GridView1.DataSource = dbTools.GetDrivers().Values;
-            GridView1.DataSource = dbTools.GetDriversTable();
-            GridView1.DataBind();
-        }
-
-        protected void btnLoadTeams_Click(object sender, EventArgs e)
-        {
-            what = false;
-            GridView1.AutoGenerateSelectButton = true;
-            DbTools dbTools = new DbTools();
-            GridView1.DataSource = dbTools.LoadTeams();
-            GridView1.DataBind();
         }
 
         protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            int x = gwVisDati.SelectedIndex;
-            db = new clsDb("C:/Dati/FormulaOne.mdf");
-            db.visDati(what, gwVisDati);
+            DbTools db = new DbTools();
+            db.GetTeams();
+            GridView table= (GridView)sender;
+            int rowIndex = Convert.ToInt32(table.SelectedRow.Cells[0].Text);
+            GridView2.DataSource = db.Teams[rowIndex].FirstDriver.ToDataTable();
+            GridView2.DataBind();
+            GridView3.DataSource = db.Teams[rowIndex].SecondDriver.ToDataTable();
+            GridView3.DataBind();
         }
     }
 }

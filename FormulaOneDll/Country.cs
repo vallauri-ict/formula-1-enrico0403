@@ -45,8 +45,8 @@ namespace FormulaOneDll
 
         public override string ToString()
         {
-            string stOut = this.CountryName + " (" + this.CountryCode + ")";
-            return stOut; 
+            string st = this.CountryName + " (" + this.CountryCode + ")";
+            return st; 
         }
     }
 }

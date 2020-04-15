@@ -150,7 +150,7 @@ namespace FormulaOneDll
 
         public override string ToString()
         {
-            return this.Name + " (" + this.Country.CountryName + ")";
+            return this.Name;
         }
 
     }

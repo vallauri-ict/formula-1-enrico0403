@@ -25,14 +25,40 @@ namespace FormulaOneCrudFormProject
         private void FormMain_Load(object sender, EventArgs e)
         {
             db = new DbTools();
-            teams = new BindingList<Team>(db.LoadTeams());
+            db.GetTeams();
+            
             listBoxTeam.DataSource = teams;
+
+            cmbCountry.DataSource = new BindingSource(db.Countries, null);
+            cmbCountry.DisplayMember = "Value";
+            cmbCountry.ValueMember = "Key";
+
+            cmbFirstDriver.DataSource = new BindingSource(db.Drivers, null);
+            cmbFirstDriver.DisplayMember = "Value";
+            cmbFirstDriver.ValueMember = "Key";
+
+            cmbSecondDriver.DataSource = new BindingSource(db.Drivers, null);
+            cmbSecondDriver.DisplayMember = "Value";
+            cmbSecondDriver.ValueMember = "Key";
         }
 
-        private void btnTest_Click(object sender, EventArgs e)
+        private void listBoxTeam_SelectedValueChanged(object sender, EventArgs e)
         {
-            Team t = new Team(999,"Test","Team di Test", new Country("IT", "Italy"),"Ferrari","Belliardo","Test Chassis", null, null);
-            teams.Add(t);
+            Team sel = (Team)listBoxTeam.SelectedItem;
+            txtFullTeamName.Text = sel.FullTeamName;
+            cmbCountry.SelectedValue = sel.Country.CountryCode;
+            txtPowerUnit.Text = sel.PowerUnit;
+            txtTechnicalChief.Text = sel.TechnicalChief;
+            txtChassis.Text = sel.Chassis;
+            cmbFirstDriver.SelectedValue = sel.FirstDriver.ID;
+            cmbSecondDriver.SelectedValue = sel.SecondDriver.ID;
+        }
+
+        private void stampaToolStripTeamButton_Click(object sender, EventArgs e)
+        {
+            Utils.SerializeToCsv(teams, @".\Teams.csv");
+
+            Utils.SerializeToJson(teams, @".\Teams.json");
         }
     }
 }

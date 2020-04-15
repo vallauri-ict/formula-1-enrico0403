@@ -1,150 +1,178 @@
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.rsp
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.rsp
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.rsp
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.rsp
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
-C:\Users\m.tonello.0411\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\csc.exe
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\csc.rsp
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\csi.exe
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\csi.rsp
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\vbc.exe
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\FormulaOneDll.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CoreCompileInputs.cache
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
-C:\Users\Enrico Danni\Desktop\FormulaONe\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.rsp
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.rsp
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CoreCompileInputs.cache
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.rsp
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe.config
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.rsp
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Managed.Core.targets
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Console.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.Compression.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.Pipes.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.AccessControl.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Claims.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Principal.Windows.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.ValueTuple.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.XmlDocument.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.XPath.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Newtonsoft.Json.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Newtonsoft.Json.xml
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csc.rsp
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.exe.config
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\csi.rsp
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Console.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.Compression.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.IO.Pipes.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.AccessControl.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Claims.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Security.Principal.Windows.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.ValueTuple.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.XPath.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Newtonsoft.Json.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\bin\Newtonsoft.Json.xml
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
+E:\5B\INFO\FormulaOneSolution\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll.config
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\FormulaOneWebFormProject.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\csc.exe
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\csc.exe.config
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\csc.rsp
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\csi.exe
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\csi.exe.config
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\csi.rsp
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.AppContext.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Console.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\vbc.exe
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\vbc.exe.config
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\vbc.rsp
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\Newtonsoft.Json.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\bin\Newtonsoft.Json.xml
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.csproj.CopyComplete
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneWebFormProject\obj\Debug\FormulaOneWebFormProject.pdb

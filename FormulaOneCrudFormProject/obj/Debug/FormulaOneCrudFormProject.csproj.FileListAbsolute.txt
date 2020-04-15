@@ -1,6 +1,7 @@
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojResolveAssemblyReference.cache
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.Cache
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
@@ -8,18 +9,80 @@ C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
 C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojAssemblyReference.cache
-C:\Users\oscar.cambieri\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CopyComplete
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojAssemblyReference.cache
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.cache
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CoreCompileInputs.cache
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CopyComplete
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
-C:\Users\Enrico Danni\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojAssemblyReference.cache
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.cache
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CopyComplete
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
+C:\Users\g.canavero.0417\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojResolveAssemblyReference.cache
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.Cache
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CoreCompileInputs.cache
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
+C:\Users\DubStep_JohNNy\Desktop\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojAssemblyReference.cache
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.cache
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CopyComplete
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
+C:\Users\g.canavero.0417\Downloads\FormulaOneSolution-20191205T081716Z-001\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojResolveAssemblyReference.cache
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.Cache
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CoreCompileInputs.cache
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
+D:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojAssemblyReference.cache
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.cache
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CopyComplete
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\Newtonsoft.Json.dll
+I:\5B\INFO\FormulaOneSolution\FormulaOneCrudFormProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe.config
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.exe
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\FormulaOneCrudFormProject.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.FormMain.resources
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.Properties.Resources.resources
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.GenerateResource.cache
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.csproj.CopyComplete
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.exe
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneCrudFormProject\obj\Debug\FormulaOneCrudFormProject.pdb

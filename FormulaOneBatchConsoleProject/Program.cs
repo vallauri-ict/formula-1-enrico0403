@@ -17,15 +17,16 @@ namespace FormulaOneBatchConsoleProject
             do
             {
                 Console.WriteLine("\n*** FORMULA ONE - BATCH SCRIPTS ***\n");
-                Console.WriteLine("1 - CREATE Countries");
-                Console.WriteLine("2 - CREATE Teams");
-                Console.WriteLine("3 - CREATE Drivers");
+                Console.WriteLine("1 - Create Countries");
+                Console.WriteLine("2 - Create Teams");
+                Console.WriteLine("3 - Create Drivers");
+                Console.WriteLine("4 - Create Circuits");
+                Console.WriteLine("5 - Create Races");
+                Console.WriteLine("6 - Create RacesScores");
+                Console.WriteLine("7 - Create Scores");
+                Console.WriteLine("8 - Set Constraints");
                 Console.WriteLine("------------------");
-                Console.WriteLine("A - DROP Countries");
-                Console.WriteLine("B - DROP Teams");
-                Console.WriteLine("C - DROP Drivers");
-                Console.WriteLine("------------------");
-                Console.WriteLine("R - RESET DB");
+                Console.WriteLine("R - Reset");
                 Console.WriteLine("------------------");
                 Console.WriteLine("X - EXIT\n");
                 scelta = Console.ReadKey(true).KeyChar;
@@ -40,20 +41,46 @@ namespace FormulaOneBatchConsoleProject
                     case '3':
                         callExecuteSqlScript("Drivers");
                         break;
-                    case 'A':
-                        callDropTable("Countries");
+                    case '4':
+                        callExecuteSqlScript("Circuits");
                         break;
-                    case 'B':
-                        callDropTable("Teams");
+                    case '5':
+                        callExecuteSqlScript("Races");
                         break;
-                    case 'C':
-                        callDropTable("Drivers");
+                    case '6':
+                        callExecuteSqlScript("RacesScores");
+                        break;
+                    case '7':
+                        callExecuteSqlScript("Scores");
+                        break;
+                    case '8':
+                        callExecuteSqlScript("SetConstraints");
                         break;
                     case 'R':
-                        resetDb();
+                        bool OK;
+
+                        OK = callDropTable("Races_Scores");
+                        if (OK) OK=callDropTable("Scores");
+                        if (OK) OK = callDropTable("Races");
+                        if (OK) OK = callDropTable("Circuits");
+                        if (OK) OK = callDropTable("Teams");
+                        if (OK) OK = callDropTable("Drivers");
+                        if (OK) OK = callDropTable("Countries");
+                        if (OK) OK = callExecuteSqlScript("Countries");
+                        if (OK) OK = callExecuteSqlScript("Drivers");
+                        if (OK) OK = callExecuteSqlScript("Teams");
+                        if (OK) OK = callExecuteSqlScript("Circuits");
+                        if (OK) OK = callExecuteSqlScript("Races");
+                        if (OK) OK = callExecuteSqlScript("Scores");
+                        if (OK) OK = callExecuteSqlScript("RacesScores");
+                        if (OK) OK = callExecuteSqlScript("SetConstraints");
+                        if (OK)
+                        {
+                            Console.WriteLine("OK");
+                        }
                         break;
                     default:
-                        if (scelta != 'X' && scelta != 'x') Console.WriteLine("\nUncorrect Choice - Try Again\n");
+                        if (scelta != 'X' && scelta != 'x') Console.WriteLine("\nUncorrect Choice\n");
                         break;
                 }
             } while (scelta != 'X' && scelta != 'x');
@@ -64,12 +91,12 @@ namespace FormulaOneBatchConsoleProject
             try
             {
                 db.ExecuteSqlScript(scriptName + ".sql");
-                Console.WriteLine("\n" + scriptName + " - SUCCESS\n");
+                Console.WriteLine("\nCreate " + scriptName + " - SUCCESS\n");
                 return true;
             }
             catch (Exception ex)
             {
-                Console.WriteLine("\n" + scriptName + " - ERROR: " + ex.Message + "\n");
+                Console.WriteLine("\nCreate " + scriptName + " - ERROR: " + ex.Message + "\n");
                 return false;
             }
         }
@@ -86,33 +113,6 @@ namespace FormulaOneBatchConsoleProject
             {
                 Console.WriteLine("\nDROP " + tableName + " - ERROR: " + ex.Message + "\n");
                 return false;
-            }
-        }
-
-        static void resetDb()
-        {
-            Console.Write("WARNING!!! This script will completely destroy and recreate the DB! Are you sure (s/n)? ");
-            char answer = Console.ReadKey().KeyChar;
-            if (answer == 's' || answer=='S')
-            {
-                try
-                {
-                    bool isOk;
-                    isOk = callDropTable("Teams");
-                    if (isOk) isOk = callDropTable("Drivers");
-                    if (isOk) isOk = callDropTable("Countries");
-                    if (isOk) isOk = callExecuteSqlScript("Countries");
-                    if (isOk) isOk = callExecuteSqlScript("Drivers");
-                    if (isOk) isOk = callExecuteSqlScript("Teams");
-                    if (isOk) isOk = callExecuteSqlScript("SetConstraints");
-                    if (isOk) Console.WriteLine("DB correctly resetted!");
-                    else throw new Exception();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("SORRY: something went wrong!");
-                    Console.WriteLine(ex.Message);
-                }
             }
         }
 
