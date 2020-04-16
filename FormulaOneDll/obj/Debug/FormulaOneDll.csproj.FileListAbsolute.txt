@@ -70,3 +70,4 @@ C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDl
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CopyComplete
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.dll
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
