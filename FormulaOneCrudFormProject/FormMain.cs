@@ -26,6 +26,7 @@ namespace FormulaOneCrudFormProject
         {
             db = new DbTools();
             db.GetTeams();
+            //teams = new BindingList<Team>(db.Teams);
             
             listBoxTeam.DataSource = teams;
 

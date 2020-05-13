@@ -177,9 +177,13 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\CountriesController.cs" />
-    <Compile Include="Controllers\DriversController.cs" />
-    <Compile Include="Controllers\TeamsController.cs" />
+    <Compile Include="Controllers\circuitsController.cs" />
+    <Compile Include="Controllers\countriesController.cs" />
+    <Compile Include="Controllers\driversController.cs" />
+    <Compile Include="Controllers\racesController.cs" />
+    <Compile Include="Controllers\racesscoresController.cs" />
+    <Compile Include="Controllers\scoresController.cs" />
+    <Compile Include="Controllers\teamsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -192,6 +196,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="index.css" />
     <Content Include="index.html">
       <BrowseToURL>index.html</BrowseToURL>
     </Content>

@@ -8,7 +8,7 @@ using FormulaOneDll;
 
 namespace WebApiProject.Controllers
 {
-    public class CountriesController : ApiController
+    public class countriesController : ApiController
     {
         DbTools db = new DbTools();
 

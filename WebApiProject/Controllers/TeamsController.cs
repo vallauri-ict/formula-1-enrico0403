@@ -8,7 +8,7 @@ using FormulaOneDll;
 
 namespace WebApiProject.Controllers
 {
-    public class TeamsController : ApiController
+    public class teamsController : ApiController
     {
         DbTools db = new DbTools();
 
@@ -17,6 +17,7 @@ namespace WebApiProject.Controllers
             db.GetTeams();
             return db.Teams.Values;
         }
+
         public IHttpActionResult GetTeam(int id)
         {
             db.GetTeams();

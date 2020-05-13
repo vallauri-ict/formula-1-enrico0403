@@ -58,8 +58,8 @@ namespace FormulaOneBatchConsoleProject
                         break;
                     case 'R':
                         bool OK;
-
-                        OK = callDropTable("Races_Scores");
+                        //System.IO.File.Copy(DbTools.WORKINGPATH + "FormulaOne.mdf", DbTools.WORKINGPATH + "Backup.mdf");
+                        OK = callDropTable("RacesScores");
                         if (OK) OK=callDropTable("Scores");
                         if (OK) OK = callDropTable("Races");
                         if (OK) OK = callDropTable("Circuits");
@@ -76,11 +76,17 @@ namespace FormulaOneBatchConsoleProject
                         if (OK) OK = callExecuteSqlScript("SetConstraints");
                         if (OK)
                         {
+                            //System.IO.File.Delete(DbTools.WORKINGPATH + "Backup.mdf");
                             Console.WriteLine("OK");
+                        }
+                        else
+                        {
+                            //System.IO.File.Copy(DbTools.WORKINGPATH + "Backup.mdf", DbTools.WORKINGPATH + "FormulaOne.mdf", true);
+                            //System.IO.File.Delete(DbTools.WORKINGPATH + "Backup.mdf");
                         }
                         break;
                     default:
-                        if (scelta != 'X' && scelta != 'x') Console.WriteLine("\nUncorrect Choice\n");
+                        if (scelta != 'X' && scelta != 'x') Console.WriteLine("\nUncorrect Choice - Try Again\n");
                         break;
                 }
             } while (scelta != 'X' && scelta != 'x');

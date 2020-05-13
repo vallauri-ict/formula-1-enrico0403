@@ -16,18 +16,22 @@ namespace FormulaOneDll
         private DateTime dob;
         private string placeOfBirthday;
         private Country country;
+        private string img;
+        private string description;
         #endregion
 
         #region Constructors
         public Driver(int id) { this.id = id; }
 
-        public Driver(int id, string firstname, string lastname, DateTime dob, string placeOfBirthday, Country country) : this(id)
+        public Driver(int id, string firstname, string lastname, DateTime dob, string placeOfBirthday, Country country,string img,string description) : this(id)
         {
             this.Firstname = firstname;
             this.Lastname = lastname;
             this.Dob = dob;
             this.PlaceOfBirthday = placeOfBirthday;
             this.Country = country;
+            this.Img = img;
+            this.Description = description;
         }
         #endregion
 
@@ -38,6 +42,8 @@ namespace FormulaOneDll
         public DateTime Dob { get => dob; set => dob = value; }
         public string PlaceOfBirthday { get => placeOfBirthday; set => placeOfBirthday = value; }
         public Country Country { get => country; set => country = value; }
+        public string Img { get => img; set => img = value; }
+        public string Description { get => description; set => description = value; }
         #endregion
 
         #region Methods

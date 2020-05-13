@@ -8,7 +8,7 @@ using FormulaOneDll;
 
 namespace WebApiProject.Controllers
 {
-    public class DriversController : ApiController
+    public class driversController : ApiController
     {
         DbTools db = new DbTools();
 
@@ -17,6 +17,7 @@ namespace WebApiProject.Controllers
             db.GetDrivers();
             return db.Drivers.Values;
         }
+        
         public IHttpActionResult GetDriver(int id)
         {
             db.GetDrivers();

@@ -62,12 +62,30 @@ D:\5B\INFO\formula-1-gcanavero0417\FormulaOneDll\obj\Debug\FormulaOneDll.csprojR
 D:\5B\INFO\formula-1-gcanavero0417\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CoreCompileInputs.cache
 D:\5B\INFO\formula-1-gcanavero0417\FormulaOneDll\obj\Debug\FormulaOneDll.dll
 D:\5B\INFO\formula-1-gcanavero0417\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\bin\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CopyComplete
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\obj\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\formula-1-gcanavero0417-master\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\FormulaOneDll.dll
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CoreCompileInputs.cache
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CopyComplete
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.dll
 C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\FormulaOneDll.pdb
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csprojAssemblyReference.cache
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CoreCompileInputs.cache
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.csproj.CopyComplete
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.dll
+C:\Users\Enrico Danni\Desktop\Formula1_Danni\formula-1-enrico0403\FormulaOneDll\obj\Debug\FormulaOneDll.pdb

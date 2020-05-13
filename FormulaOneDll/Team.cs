@@ -17,21 +17,25 @@ namespace FormulaOneDll
         private string chassis;
         private Driver firstDriver;
         private Driver secondDriver;
+        private string logo;
+        private string img;
 
-        public Team(int id, string name, string fullTeamName, Country country, string powerUnit, string technicalChief, string chassis, Driver firstDriver, Driver secondDriver)
+        public Team(int id, string name, string fullTeamName, Country country, string powerUnit, string technicalChief, string chassis, Driver firstDriver, Driver secondDriver, string logo, string img)
         {
-            this.Id = id;
-            this.Name = name;
-            this.FullTeamName = fullTeamName;
-            this.Country = country;
-            this.PowerUnit = powerUnit;
-            this.TechnicalChief = technicalChief;
-            this.Chassis = chassis;
-            this.FirstDriver = firstDriver;
-            this.SecondDriver = secondDriver;
+            this.id = id;
+            this.name = name;
+            this.fullTeamName = fullTeamName;
+            this.country = country;
+            this.powerUnit = powerUnit;
+            this.technicalChief = technicalChief;
+            this.chassis = chassis;
+            this.firstDriver = firstDriver;
+            this.secondDriver = secondDriver;
+            this.logo = logo;
+            this.img = img;
         }
 
-        public int Id
+        public int ID
         {
             get
             {
@@ -147,6 +151,9 @@ namespace FormulaOneDll
                 secondDriver = value;
             }
         }
+
+        public string Logo { get => logo; set => logo = value; }
+        public string Img { get => img; set => img = value; }
 
         public override string ToString()
         {

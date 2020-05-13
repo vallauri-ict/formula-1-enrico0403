@@ -1,0 +1,398 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+
+@font-face {
+    font-family: F1;
+    src: url(fonts/F1-regular.otf);
+}
+@font-face {
+    font-family: F1-bold;
+    src: url(fonts/F1-bold.otf);
+}
+
+fieldset{
+    width: 1050px;
+}
+
+#navbar {
+    background-color: #e10600;
+    height: 65px;
+    position: fixed;
+    width:100%;
+    z-index: 3;
+}
+
+
+#navbar ul {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    width: 50%;
+}
+
+#navbar ul li {
+    margin: auto;
+    list-style: none;
+    color:white;
+    transition:background-color .5s;
+    width:100%;
+    height:100%;
+}
+
+#navbar ul li input {
+    color: white;
+    background-color: inherit;
+    font-family: F1;
+    font-size: 1.5em;
+    border: none;
+    text-align: center;
+    line-height: 65px;
+    padding:0 10px;
+}
+#navbar ul li input:focus {
+    outline-width: 0;
+}
+
+#navbar ul li input:hover {
+    background-color: black;
+    cursor: pointer;
+}
+
+#navbar ul li:nth-of-type(1) img {
+    width: 140px;
+    height: 23px;
+    display:block;
+    margin:23px;
+}
+
+#wrapper{
+    padding-top:65px;
+    width:60%;
+    height:100%;
+    margin:0 auto;
+    font-family: F1;
+}
+
+#wrapper > fieldset {
+    margin-top:15px;
+    border-top-right-radius: 25px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border: 0;
+    border-top: solid 10px #15151e;
+    border-right: solid 10px #15151e;
+    padding: 0;
+    height:75px;
+}
+
+#wrapper > fieldset h1 {
+    font-family: F1;
+    font-size: 2.8em;
+}
+
+/* Driver */
+#wrapper div.driver {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#wrapper div fieldset.driver{
+    border-top-right-radius: 25px;
+    border: 0;
+    border-top: solid 2px #15151e;
+    border-right: solid 2px #15151e;
+    position:relative;
+    width:310px;
+    height:280px;
+    margin: 20px;
+    transition: width 1s,height 1s,border-color .5s;
+}
+
+#wrapper div .driver .firstname{
+    position:absolute;
+    top: 2%;
+    left: 2%;
+}
+#wrapper div .driver .lastname{
+    position:absolute;
+    top: 8%;
+    left: 2%;
+    font-family: F1-bold;
+    font-size: 1.2em;
+}
+#wrapper div .driver .country{
+    position: absolute;
+    top: 5%;
+    right: 4%;
+    font-size: 1.3em;
+}
+#wrapper div .driver .hr{
+    position: absolute;
+    top: 18%;
+    left:2%;
+    width: 94%;
+}
+#wrapper div .driver .img{
+    position:absolute;
+    bottom: 2%;
+    right: 4%;
+    width: 205px;
+}
+/* Fine Driver */
+
+/* Team */
+#wrapper div.team {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#wrapper div fieldset.team{
+    border-top-right-radius: 25px;
+    border: 0;
+    border-top: solid 2px #15151e;
+    border-right: solid 2px #15151e;
+    position:relative;
+    width:95%;
+    height:280px;
+    margin: 20px;
+    transition: width 1s,height 1s,border-color .5s;
+}
+
+#wrapper div .team .name{
+    z-index: 2;
+    position: absolute;
+    top: 2%;
+    left: 0.6%;
+    font-size: 1.4em;
+    font-family: F1-bold;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.data {
+    margin-top: 30px;
+    margin-left: 3px;
+}
+
+.dataSecond {
+    margin-left: 3px;
+}
+
+.logo{
+    width: 50px;
+    height: 60px;
+    margin-right: 5px;
+}
+
+#wrapper div .team .hr{
+    position: absolute;
+    top: 18%;
+    left: 0.6%;
+    width: 75%;
+}
+#wrapper div .team fieldset{
+    position: absolute;
+    top: 20%;
+    font-size: 1.3em;
+    border-bottom-right-radius: 10px;
+    border: 0;
+    border-bottom: solid 1px #15151e;
+    border-right: solid 1px #15151e;
+    width:35%;
+    transition: width 1s,height 1s;
+}
+#wrapper div .team .firstDriver{
+    left: 0.6%;
+}
+
+#wrapper div .team .secondDriver{
+    right: 28%;
+}
+
+#wrapper div .team .img{
+    position: absolute;
+    bottom: 0.6%;
+    left: 0.6%;
+    width: 405px;
+}
+#wrapper div .team .logo{
+    position: absolute;
+    right: 0;
+    width: 150px;
+    margin-top: 10px;
+}
+/* Open */
+#wrapper div .team .powerUnit{
+    position: absolute;
+    top: 50%;
+    left: 0.6%;
+}
+#wrapper div .team .technicalChief{
+    position: absolute;
+    top: 56%;
+    left: 0.6%;
+}
+#wrapper div .team .chassis{
+    position: absolute;
+    top: 62%;
+    left: 0.6%;
+}
+#wrapper div .team fieldset img.open{
+    left: unset;
+    bottom: 0;
+    right: 0;
+    width: 80px;
+    border-bottom-right-radius: 10px;
+}
+#wrapper div .team fieldset span.open{
+    position: absolute;
+    top: 20%;
+    font-size: 0.7em;
+    left: 0%;
+}
+/* Fine Team */
+
+/* Circuit */
+#wrapper div.circuit{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#wrapper div fieldset.circuit{
+    border-top-right-radius: 25px;
+    border: 0;
+    border-top: solid 2px #15151e;
+    border-right: solid 2px #15151e;
+    position:relative;
+    width:85%;
+    height:280px;
+    margin: 20px;
+    transition: width 1s,height 1s;
+}
+
+#wrapper div .circuit .name{
+    z-index: 2;
+    position: absolute;
+    top: 2%;
+    left: 0.6%;
+    font-size: 1.4em;
+    font-family: F1-bold;
+}
+#wrapper div .circuit .country{
+    position: absolute;
+    top: 10%;
+    left: 0.6%;
+}
+#wrapper div .circuit .hr{
+    position: absolute;
+    top: 18%;
+    left: 0.6%;
+    width: 85%;
+}
+#wrapper div .circuit .length{
+    position: absolute;
+    top: 18%;
+    left: 0.6%;
+}
+#wrapper div .circuit .nLaps{
+    position: absolute;
+    top: 18%;
+    right: 14%;
+}
+#wrapper div .circuit .recordLap{
+    position: absolute;
+    top: 18%;
+    left: 0.6%;
+}
+#wrapper div .circuit .img{
+    position:absolute;
+    bottom: 2%;
+    left: 0.6%;
+    max-height: 200px;
+}
+/* Fine Circuit */
+
+/* Race*/
+#wrapper div.race{
+    display: grid;
+    grid-template-columns: auto;
+}
+#wrapper div fieldset.race{
+    border-top-right-radius: 25px;
+    border: 0;
+    border-top: solid 2px #15151e;
+    border-right: solid 2px #15151e;
+    width: 98%;
+    height: fit-content;
+    margin: 20px 0;
+    transition: width 1s,height 1s,border-color .5s;
+    position: relative;
+}
+
+#wrapper div .race .name{
+    font-size: 1.4em;
+    font-family: F1-bold;
+}
+#wrapper div .race .opener{
+    position: absolute;
+    top: 6px;
+    right: 2%;
+    font-size: 2em;
+    transform: rotate(90deg);
+    transition: color .5s;
+}
+
+#wrapper div .race .circuitname{
+    letter-spacing: 0.8px;
+}
+
+.driver{
+    margin-top: 60px;
+    margin-left: 6px;
+}
+
+.driverSecond{
+    margin-left: 6px;
+}
+
+/* Open */
+#wrapper div .race div fieldset.score{
+    border-bottom-right-radius: 10px;
+    border: 0;
+    border-bottom: solid 1px #15151e;
+    border-right: solid 1px #15151e;
+    width: 95%;
+    margin: 5px 0;
+    position: relative;
+    height: 20px;
+}
+#wrapper div .race div fieldset.score .pos{
+    position: absolute;
+    bottom: 10%;
+    left: 0.6%;
+}
+#wrapper div .race div fieldset.score .driver{
+    position: absolute;
+    bottom: 10%;
+    left: 12%;
+}
+#wrapper div .race div fieldset.score .driver span.bold{
+    font-family: F1-bold;
+}
+#wrapper div .race div fieldset.score .teamName{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+}
+#wrapper div .race div fieldset.score .score{
+    position: absolute;
+    bottom: 10%;
+    right: 1%;
+}
+/* Fine regione */
+@media screen and (max-width: 1000px) {
+    #wrapper div.driver {grid-template-columns: auto auto;}
+    #wrapper div.team {grid-template-columns: auto;}
+    #wrapper div.circuit {grid-template-columns: auto;}
+}

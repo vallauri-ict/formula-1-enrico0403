@@ -19,6 +19,7 @@ namespace FormulaOneWebFormProject
             DbTools db = new DbTools();
             db.GetCountries();
             GridView2.DataSource = db.Countries.Values;
+            //GridView1.data
             GridView2.DataBind();
         }
 
@@ -27,6 +28,7 @@ namespace FormulaOneWebFormProject
             DbTools db = new DbTools();
             db.GetTeams();
             GridView1.DataSource = db.Teams.Values;
+            //GridView1.data
             GridView1.DataBind();
         }
 
@@ -35,6 +37,7 @@ namespace FormulaOneWebFormProject
             DbTools db = new DbTools();
             db.GetDrivers();
             GridView3.DataSource = db.Drivers.Values;
+            //GridView1.data
             GridView3.DataBind();
         }
 
@@ -42,6 +45,8 @@ namespace FormulaOneWebFormProject
         {
             if (e.Row.RowType == DataControlRowType.DataRow)
             {
+                // Attaching one onclick event for the entire row, so that it will
+                // fire SelectedIndexChanged, while we click anywhere on the row.
                 e.Row.Attributes["onclick"] =
                   ClientScript.GetPostBackClientHyperlink(this.GridView1, "Select$" + e.Row.RowIndex);
             }
