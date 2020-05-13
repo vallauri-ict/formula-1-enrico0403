@@ -5,6 +5,39 @@ $(function () {
         window.location.reload();
     });
     let _wrapper = $("#wrapper");
+
+    $("#loadRaces").on("click", function () {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        $("#navbar ul li input").css("background-color", "inherit");
+        $("#loadRaces").css("background-color", "rgba(0,0,0,0.3)");
+        richiesta("/races", function (data) {
+            _wrapper.html("<fieldset><h1>F1 2019 Races</h1></fieldset>");
+            console.log(data);
+            let _div = $("<div>")
+                .addClass("race")
+                .appendTo(_wrapper);
+            for (let race of data) {
+                let _fs = $("<fieldset>")
+                    .addClass("race")
+                    .data("id", race.id)
+                    .data("open", "false")
+                    .appendTo(_div);
+
+                $("<p>")
+                    .html(race.name)
+                    .addClass("name")
+                    .appendTo(_fs);
+
+                let date = new Date(race.date);
+                let dateString = date.getDate() + '/' + (date.getMonth() + 1) + '/' + date.getFullYear();
+                $("<p>")
+                    .html(race.circuit["name"] + ', (' + race.circuit.country["countryCode"] + ') - ' + dateString)
+                    .addClass("circuitname")
+                    .appendTo(_fs);
+            }
+        });
+    });
+
     $("#loadDrivers").on("click", function () {
         window.scrollTo({top: 0, behavior: 'smooth'});
         $("#navbar ul li input").css("background-color","inherit");
@@ -37,13 +70,13 @@ $(function () {
                     .appendTo(_fs);
 
                 $("<p class='driver'>")
-                    .html("Country: "+driver.country["countryName"] + ", " + driver.country["countryCode"])
+                    .html("Place of Birthday: "+driver.placeOfBirthday + ", " + driver.country["countryCode"])
                     .data("countryCode", driver.country["countryName"])
                     .appendTo(_fs);
                 $("<p class='driverSecond'>")
                     .html("Date of Birthday: " + new Date(driver.dob).toLocaleDateString()).appendTo(_fs);
 
-                $("<img style='width: 170px; height: 170px;'>")
+                $("<img style='width: 150px; height: 150px;'>")
                 .prop("src",driver.img)
                 .addClass("img")
                 .appendTo(_fs);            

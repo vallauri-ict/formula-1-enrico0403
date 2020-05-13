@@ -198,7 +198,7 @@ namespace FormulaOneDll
                 }
             }
         }
-        
+
         public void GetScores(bool forceReload = false)
         {
             if (forceReload || this.Scores == null)
