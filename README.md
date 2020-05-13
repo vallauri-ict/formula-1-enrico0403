@@ -5,7 +5,7 @@ Enrico Danni - 5B Info
 Questo progetto è pensato per offire un CRUD e una Web Api per il campionato di Formula1. <br>
 Il DataBase di questo progetto è stato realizzato con SQL Server. <br>
 
-# Porgetto
+# Progetto
 
 ### Progetto 1 - FormulaOneBatchConsole Project
 
